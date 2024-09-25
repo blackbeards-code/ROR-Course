@@ -13,3 +13,6 @@ Created the Ruby_Programing dir. This will house all ruby programing in files th
 
 programing will be done in vscode and copies int repl.it 
 each file will represent a secition of the course. 
+
+[9/24]
+After setting up environments and such was able to start the first lesson for the ROR Course. 
