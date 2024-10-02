@@ -16,3 +16,6 @@ each file will represent a secition of the course.
 
 [9/24]
 After setting up environments and such was able to start the first lesson for the ROR Course. 
+
+[9/25]
+completed sections 15 and 16 of the ROR course. 

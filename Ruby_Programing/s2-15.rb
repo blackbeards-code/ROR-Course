@@ -1,0 +1,53 @@
+# String concatenation
+first_name = "Reaper"
+last_name = "Master"
+
+puts first_name + " " + last_name
+
+full_name = first_name + last_name
+
+puts full_name
+
+
+#String interpolation ONLY WORKS WITH DOUBLE QUOTES!!!!
+
+puts "My first name is #{first_name} and my last name is #{last_name}"
+
+full_name = "#{first_name} #{last_name}"
+
+puts full_name
+
+#Commented commands were run in Realtime RUby env. 
+#Methods, how to find them
+#full_name.class This will tell you what type of data the item is.
+
+#full_name.method #lists all the methods available to the object.
+
+#method chaining is when two or more methods are called at the same time.
+#10.5.to_s.class
+
+#Common methods
+#full_name.length
+
+#full_name.reverse
+
+#full_name.capitalize
+
+#Variable assignment
+first_name = "Ivanna"
+last_name = "Humpalot"
+her_name = "#{first_name} #{last_name}"
+puts her_name
+new_last_name = last_name
+her_name = "#{first_name} #{new_last_name}"
+puts her_name
+last_name = "Sukncox"
+her_old_name = "#{first_name} #{last_name}"
+puts her_old_name
+puts her_name
+
+#Escaping
+#use the \ to escape special characters. Example: 
+
+puts "Master told his Slut \"You better bend over and take my cock now\" in his most stenest voice"
+
