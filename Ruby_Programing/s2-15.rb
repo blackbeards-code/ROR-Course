@@ -34,14 +34,14 @@ puts full_name
 #full_name.capitalize
 
 #Variable assignment
-first_name = "Ivanna"
-last_name = "Humpalot"
+first_name = "Ginny"
+last_name = "Potter"
 her_name = "#{first_name} #{last_name}"
 puts her_name
 new_last_name = last_name
 her_name = "#{first_name} #{new_last_name}"
 puts her_name
-last_name = "Sukncox"
+last_name = "Weasly"
 her_old_name = "#{first_name} #{last_name}"
 puts her_old_name
 puts her_name
@@ -49,5 +49,5 @@ puts her_name
 #Escaping
 #use the \ to escape special characters. Example: 
 
-puts "Master told his Slut \"You better bend over and take my cock now\" in his most stenest voice"
+puts "The man said to the Child \"You better eat your veggies to grow big and strong\" with a smile on his face."
 
